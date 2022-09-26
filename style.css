@@ -1,0 +1,26 @@
+table{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    border-collapse: collapse;
+    border-spacing: 10px;
+    
+}
+
+th,td:first-child {
+    font-weight:bolder;
+    font-size: 18px;
+    padding: 10px;
+    background-color: rgba(162, 210, 218, 0.548); 
+    border: solid 1px rgb(92, 91, 91);
+    border-color: rgba(39, 48, 42, 0.363);
+    border-width: 0px 1px 1px 0px;
+    width: 90px;
+}
+td {
+    font-size: 16px;
+    border: solid 1px rgb(92, 91, 91);
+    border-width: 0px 1px 1px 0px;
+    width: 90px;
+    background-color:rgba(204, 219, 179, 0.349) ;
+    border-color: rgba(86, 121, 99, 0.507);
+} 
